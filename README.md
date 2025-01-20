@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+[![bbatsov's github stats](https://github-readme-stats.vercel.app/api?username=bbatsov&count_private=true&show_icons=true)](https://github.com/bbatsov)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbatsov)](https://github.com/bbatsov)
+
 <!--
 **bbatsov/bbatsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
